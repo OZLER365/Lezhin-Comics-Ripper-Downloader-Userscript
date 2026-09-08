@@ -1,5 +1,7 @@
 **SUPPORT LANGUAGES - English, Japanese, Korean, Thailand, France, Germany, Spain, China/Taiwan
 
+*Auto scroll not needed in MR BLUE site it's automatically captures all images automatically in few seconds though you can technically use auto scroll
+
 *TOPTOON JAPAN DOWNLOADING (toptoon other variants aren't supported)
 
 *auto scroll feels slow for toptoon, so not really recommended, you can just manually scroll to the very bottom
