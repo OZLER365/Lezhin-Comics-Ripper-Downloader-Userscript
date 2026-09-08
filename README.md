@@ -1,5 +1,9 @@
 **SUPPORT LANGUAGES - English, Japanese, Korean, Thailand, France, Germany, Spain, China/Taiwan
 
+*TOPTOON JAPAN DOWNLOADING (toptoon other variants aren't supported)
+
+*auto scroll feels slow for toptoon, so not really recommended, you can just manually scroll to the very bottom
+
 *IGNORE THE PAGE COUNTER IT DOESN'T IDENTIFY THE TOTAL NUMBER PAGES AVAILABLE ON SOME SITES, IT JUST CAPTURES THE TOTAL NUMBER OF PAGES BASED ON SITE'S READING PROGRESS BAR
 
 *AUTO SCROLL NOT NEEDED FOR KAKAO WEBTOON ALSO FOR SOME SITES JUST WAIT UNTIL THE CAPTURE COUNTER STOPS
